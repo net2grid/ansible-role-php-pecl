@@ -1,6 +1,6 @@
 ---
 dependencies:
-  - geerlingguy.php
+  - net2grid.php
 
 galaxy_info:
   author: geerlingguy
